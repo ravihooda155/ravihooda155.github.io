@@ -4,9 +4,8 @@ title: 'Terminal File Explorer'
 github: ''
 external: 'https://github.com/ravihooda155/Terminal-File-Explorer'
 tech:
-  - MusicKit.js
-  - JS
-  - SCSS
+  - C++
+  - Multithreading
 company: 'IIIT Hyderabad'
 showInProjects: true
 ---

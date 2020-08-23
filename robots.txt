@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://ravihooda155.github.io/sitemap.xml
+Host: https://ravihooda155.github.io

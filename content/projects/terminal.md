@@ -7,7 +7,7 @@ tech:
   - MusicKit.js
   - JS
   - SCSS
-company: 'Apple'
+company: 'IIIT Hyderabad'
 showInProjects: true
 ---
 
